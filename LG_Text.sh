@@ -38,5 +38,10 @@ head_glad() {
     send
 }
 
+invite_sent(){
+    type "Invite sent! Click ESC -> Communication -> Inbox to accept the invite!"
+    send
+}
+
 sleep 1
 eval "$1"

@@ -10,11 +10,14 @@
 "$PWD/LG_Text.sh looking"
     Control+Alt+Mod2 + 2
 
-"$PWD/LG_Text.sh discord_link"
+"$PWD/LG_Text.sh invite_sent"
     Control+Alt+Mod2 + 3
 
-"$PWD/LG_Text.sh clan_mates"
+"$PWD/LG_Text.sh discord_link"
     Control+Alt+Mod2 + 4
 
-"$PWD/LG_Text.sh head_glad"
+"$PWD/LG_Text.sh clan_mates"
     Control+Alt+Mod2 + 5
+
+"$PWD/LG_Text.sh head_glad"
+    Control+Alt+Mod2 + 6

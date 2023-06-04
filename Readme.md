@@ -31,19 +31,25 @@ xbindkeys -n -f LG.xbindkeys
    
    `"We've got all research unlocked (some colors, all weapons, Dry Dock, and researched Railjack Cephalon) and [Ignis Wraith] access (through an alliance distributor)"i`
    
-3. ctrl+alt+3 (Discord grift)
+   
+3. ctrl+alt+3 (invite sent)
+   
+   will send
+   
+   `"Invite sent! Click ESC -> Communication -> Inbox to accept the invite!"`
+
+4. ctrl+alt+4 (Discord grift)
 
    will send
    
    `"Heyo fellow clan mates :wave:, Just wanted to point your focus to our discord server where we generally do everything there like clan events, giveaways (freeplat-nitro), squad recruiting, and the usual clan interaction with members. Don't miss it out https://discord.gg/GladsLegion :moon: "`
-4. ctrl+alt+4 (Discord link)
+5. ctrl+alt+5 (Discord link)
 
    will send
    
    `":moon: Discord Link: https://discord.gg/GladsLegion :moon:"`
 
-5. ctrl+alt+4 (looking for head glad)
+6. ctrl+alt+6 (looking for head glad)
 
    will send
-   
    `":moon: The Staff team is currently looking for Head Gladiators! Heads are primarily recruiters, chat mods and community leaders. Discord mandatory! Contact an online Head/Supreme in game/Discord if you are interested. Discord Link: https://discord.gg/GladsLegion :moon:"`
