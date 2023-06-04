@@ -1,0 +1,20 @@
+# For the benefit of emacs users: -*- mode: sh; eval: (format-all-mode -1)-*-
+#
+###########################
+# xbindkeys configuration #
+###########################
+
+"$PWD/LG_Text.sh spam"
+    Control+Alt+Mod2 + 1
+
+"$PWD/LG_Text.sh looking"
+    Control+Alt+Mod2 + 2
+
+"$PWD/LG_Text.sh discord_link"
+    Control+Alt+Mod2 + 3
+
+"$PWD/LG_Text.sh clan_mates"
+    Control+Alt+Mod2 + 4
+
+"$PWD/LG_Text.sh head_glad"
+    Control+Alt+Mod2 + 5
